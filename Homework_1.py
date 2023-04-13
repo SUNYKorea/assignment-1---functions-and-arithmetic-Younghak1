@@ -1,6 +1,22 @@
 # Name: Younghak Yoo
 # SBUID: 115935752
+##################### SCORE ######################
+#######  Score:  6/10
+#################################################
+#your output
+# (base) D:\CSE 101 Ass1\Assignment 1 - Functions and Arithmetic-04-05-2023-05-19-27>D:/anaconda/python.exe "d:/CSE 101 Ass1/Assignment 1 - Functions and Arithmetic-04-05-2023-05-19-27/Younghak1/Homework_1.py"
+# Enter the Fahrenheit : 44
+# You'd better to wear Sweater.
 
+# The area of triangle = 11.5 --> wrong
+# First distance is = 5.83 units
+# Second distance is = 6.08 units
+# Third distance is = 11.18 units
+# Perimeter of triangle is : 23.09405431264247 units--> wrong
+
+# Enter the number of sides of your polygon: 5
+# Enter the length of sides of your polygon: 4
+# The area of the polygon is : 27.527638409423474
 # ---------------------------- Exercise I ---------------------------------------
 # ----------------- Convert Fahrenheit to Celsius -------------------------------
 # TODO: Complete the implementation of fahrenheit2celsius () and what_to_wear(). 
