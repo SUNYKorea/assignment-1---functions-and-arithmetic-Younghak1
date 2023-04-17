@@ -1,7 +1,7 @@
 # Name: Younghak Yoo
 # SBUID: 115935752
 ##################### SCORE ######################
-#######  Score:  6/10
+#######  Score:  8.5/10
 #################################################
 #your output
 # (base) D:\CSE 101 Ass1\Assignment 1 - Functions and Arithmetic-04-05-2023-05-19-27>D:/anaconda/python.exe "d:/CSE 101 Ass1/Assignment 1 - Functions and Arithmetic-04-05-2023-05-19-27/Younghak1/Homework_1.py"
